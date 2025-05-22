@@ -1,4 +1,4 @@
-- Hi, I’m @estoianova
+- Hi, I’m Eleonora Stoianova @estoianova
 - Sophomore Computer Science Major at Iowa State University
 
 <!---
